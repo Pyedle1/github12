@@ -3,7 +3,7 @@ import re
 
 def validate_email(email):
     
-    Проверяет корректность формата email-адреса.
+    #Проверяет корректность формата email-адреса
     
     Args:
         email (str): Email адрес для проверки
