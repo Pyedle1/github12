@@ -10,7 +10,7 @@ def validate_email(email):
         
     Returns:
         bool: True если email валиден, False в противном случае
-    """
+   
     
     if not email or not isinstance(email, str):
         return False
